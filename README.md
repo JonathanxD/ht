@@ -1,7 +1,7 @@
 # ht
 Grab a line
 
-# Simple
+# Example
 
 ```sh
 echo "Hello" > test
