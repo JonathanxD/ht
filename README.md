@@ -14,4 +14,4 @@ Output:
 ```sh
 
 world
-```world
+```
