@@ -6,7 +6,7 @@ Grab a line
 ```sh
 echo "Hello" > test
 echo "world" >> test
-cat test | ht 1
+cat test | ht 2
 ```
 
 Output:
